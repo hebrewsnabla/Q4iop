@@ -1,4 +1,5 @@
-# Educational QC computation examples for inorganic/organic/physical chemistry
+# Q4iop
+Educational QC computation examples for inorganic/organic/physical chemistry
 
 * Organic
   + [n-butane PES](/OC/01-pes.md)
